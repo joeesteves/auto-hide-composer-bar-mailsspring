@@ -1,5 +1,5 @@
 {
-  "name": "auto-hide-bar",
+  "name": "auto-hide-bar-composer",
   "main": "./lib/main",
   "version": "0.1.0",
   "repository": {
